@@ -4,4 +4,8 @@
         <members>Sri2</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>GuestCommunity1</members>
+        <name>ExperienceBundle</name>
+    </types>
 </Package>
