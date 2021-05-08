@@ -2,11 +2,9 @@
     <version>48.0</version>
     <types>
         <members>A000</members>
+        <members>A31</members>
+        <members>A32</members>
         <members>Sri2</members>
         <name>ApexClass</name>
-    </types>
-    <types>
-        <members>GuestCommunity1</members>
-        <name>ExperienceBundle</name>
     </types>
 </Package>
