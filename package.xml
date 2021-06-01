@@ -8,15 +8,7 @@
         <members>A0071</members>
         <members>A022233444</members>
         <members>A0233</members>
-        <members>A080189</members>
         <name>ApexClass</name>
-    </types>
-    <types>
-        <members>New27__c.Field27__c</members>
-        <members>New27__c.Field28__c</members>
-        <members>newobj5__c.Feidl2__c</members>
-        <members>newobj5__c.feild1__c</members>
-        <name>CustomField</name>
     </types>
     <types>
         <members>New27__c</members>
