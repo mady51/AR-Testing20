@@ -3,7 +3,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>Salesforce Scheduler Setup</label>
+    <label>Lightning Scheduler Setup</label>
     <navType>Standard</navType>
     <tabs>standard-LightningSchedulerSetupAssistant</tabs>
     <tabs>standard-ServiceTerritory</tabs>
