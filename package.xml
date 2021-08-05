@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>51.0</version>
+    <version>48.0</version>
     <types>
         <members>A000</members>
         <members>A00000AOZGddBpOrC</members>
@@ -8,8 +8,12 @@
         <members>A0071</members>
         <members>A022233444</members>
         <members>A0233</members>
-        <members>A080189</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AppSwitcher</members>
+        <members>Salesforce1</members>
+        <name>AppMenu</name>
     </types>
     <types>
         <members>New27__c.Field27__c</members>
