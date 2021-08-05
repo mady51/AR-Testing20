@@ -16,6 +16,15 @@
         <name>AppMenu</name>
     </types>
     <types>
+        <members>default_appointment_scheduling_policy</members>
+        <name>AppointmentSchedulingPolicy</name>
+    </types>
+    <types>
+        <members>standard__LightningScheduler</members>
+        <members>standard__QueueManagement</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>New27__c.Field27__c</members>
         <members>New27__c.Field28__c</members>
         <members>newobj5__c.Feidl2__c</members>
@@ -26,5 +35,76 @@
         <members>New27__c</members>
         <members>newobj5__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>standard case</members>
+        <name>EntitlementProcess</name>
+    </types>
+    <types>
+        <members>Case.Standard</members>
+        <name>EscalationRule</name>
+    </types>
+    <types>
+        <members>AlternativePaymentMethod-Alternative Payment Method Layout</members>
+        <members>ApiAnomalyEventStore-API Anomaly Event Store Layout</members>
+        <members>AssignedResource-Assigned Resource Layout</members>
+        <members>AuthorizationForm-Authorization Form Layout</members>
+        <members>AuthorizationFormConsent-Authorization Form Consent Layout</members>
+        <members>AuthorizationFormDataUse-Authorization Form Data Use Layout</members>
+        <members>AuthorizationFormText-Authorization Form Text Layout</members>
+        <members>CaseMilestone-Case Milestone Layout</members>
+        <members>ContactPointTypeConsent-Contact Point Type Consent Layout</members>
+        <members>ContractLineItem-Contract Line Item Layout</members>
+        <members>CredentialStuffingEventStore-Credential Stuffing Event Store Layout</members>
+        <members>DataUseLegalBasis-Data Use Legal Basis Layout</members>
+        <members>DataUsePurpose-Data Use Purpose Layout</members>
+        <members>Entitlement-Entitlement Layout</members>
+        <members>EntityMilestone-Object Milestone Layout</members>
+        <members>OperatingHours-Operating Hours Layout</members>
+        <members>PaymentAuthAdjustment-Payment Authorization Adjustment Layout</members>
+        <members>ReportAnomalyEventStore-Report Anomaly Event Store Layout</members>
+        <members>ResourceAbsence-Resource Absence Layout</members>
+        <members>ResourcePreference-Resource Preference Layout</members>
+        <members>ReturnOrder-Return Order Layout</members>
+        <members>ReturnOrderItemAdjustment-Return Order Item Adjustment Layout</members>
+        <members>ReturnOrderItemTax-Return Order Item Tax Layout</members>
+        <members>ReturnOrderLineItem-Return Order Line Item Layout</members>
+        <members>ServiceAppointment-Service Appointment Layout</members>
+        <members>ServiceContract-Service Contract Layout</members>
+        <members>ServiceResource-Service Resource Layout</members>
+        <members>ServiceResourceSkill-Service Resource Skill Layout</members>
+        <members>ServiceTerritory-Service Territory Layout</members>
+        <members>ServiceTerritoryMember-Service Territory Member Layout</members>
+        <members>SessionHijackingEventStore-Session Hijacking Event Store Layout</members>
+        <members>SkillRequirement-Skill Requirement Layout</members>
+        <members>ThreatDetectionFeedback-Threat Detection Feedback Layout</members>
+        <members>TimeSlot-Time Slot Layout</members>
+        <members>WorkOrder-Work Order Layout</members>
+        <members>WorkOrderLineItem-Work Order Line Item Layout</members>
+        <members>WorkType-Work Type Layout</members>
+        <members>WorkTypeGroup-Work Type Group Layout</members>
+        <members>WorkTypeGroupMember-Work Type Group Member Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Contact.BulkMessageContacts</members>
+        <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>cms_document</members>
+        <members>cms_image</members>
+        <members>news</members>
+        <name>ManagedContentType</name>
+    </types>
+    <types>
+        <members>Close Case</members>
+        <members>Escalate Case</members>
+        <members>First Response to Customer</members>
+        <name>MilestoneType</name>
+    </types>
+    <types>
+        <members>Case.ChangePriorityToHigh</members>
+        <name>WorkflowFieldUpdate</name>
     </types>
 </Package>
