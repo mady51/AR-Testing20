@@ -1,0 +1,9 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+manifest:
+- AttributeCategory
+- CalculationMatrix
+- DataRaptor
+maxDepth: -1
+autoUpdateSettings: false
+separateMatrixVersions: false
+separateCalculationProcedureVersions: false
